@@ -1,4 +1,4 @@
-(ns firemore-start-template.mui-icons
+(ns infinite-list.mui-icons
   (:require
    [goog.object :as gobj]
    [reagent.core :as reagent]

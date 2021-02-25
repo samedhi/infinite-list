@@ -1,7 +1,7 @@
-(ns firemore-start-template.core-test
+(ns infinite-list.core-test
   (:require
    [cljs.test :as t :include-macros true]
-   [firemore-start-template.core :as sut]))
+   [infinite-list.core :as sut]))
 
 (t/deftest test-example
   (t/is (= 1 (int "1")))

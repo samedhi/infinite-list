@@ -1,9 +1,9 @@
-(ns firemore-start-template.views.root
+(ns infinite-list.views.root
   (:require
    [re-frame.core :as re-frame]
-   [firemore-start-template.mui :as mui]
-   [firemore-start-template.views.util :as views.util]
-   [firemore-start-template.util :as util]))
+   [infinite-list.mui :as mui]
+   [infinite-list.views.util :as views.util]
+   [infinite-list.util :as util]))
 
 (defn title []
   (let [greeting @(re-frame/subscribe [:greeting])]

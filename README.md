@@ -1,6 +1,6 @@
-# firemore-start-template
+# infinite-list
 
-This is a template to quickly start web development with [Clojurescript](https://clojurescript.org/) & [Firebase](https://firebase.google.com/). It uses [figwheel.main](https://figwheel.org/docs/) for live development and [cljs-test-runner](https://github.com/Olical/cljs-test-runner) for live testing. It uses [firemore](https://github.com/samedhi/firemore) to interact with [Firebase](https://firebase.google.com/). It also includes a small script allowing you to change the name of this project to something other than `firemore-start-template`.
+This is a template to quickly start web development with [Clojurescript](https://clojurescript.org/) & [Firebase](https://firebase.google.com/). It uses [figwheel.main](https://figwheel.org/docs/) for live development and [cljs-test-runner](https://github.com/Olical/cljs-test-runner) for live testing. It uses [firemore](https://github.com/samedhi/firemore) to interact with [Firebase](https://firebase.google.com/). It also includes a small script allowing you to change the name of this project to something other than `infinite-list`.
 
 Use this template by clicking on the big green button that says "Use this template" in the upper right corner.
 
@@ -21,7 +21,7 @@ This project uses [figwheel.main](https://figwheel.org/docs/) for development. T
 
 ### Emacs
 ```
-emacs src/firemore-start-template/core.cljs
+emacs src/infinite-list/core.cljs
 ```
 From within emacs, type `M-x cider-jack-in-cljs` and then `Enter`. `figwheel-main` is your environment and `dev` is your build.
 

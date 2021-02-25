@@ -1,4 +1,4 @@
-(ns firemore-start-template.mui
+(ns infinite-list.mui
   (:refer-clojure :exclude [list stepper])
   (:require
    [goog.object :as gobj]

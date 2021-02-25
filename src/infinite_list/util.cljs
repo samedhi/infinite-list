@@ -1,4 +1,4 @@
-(ns firemore-start-template.util
+(ns infinite-list.util
   (:require
    [cljs.pprint :as pprint]))
 

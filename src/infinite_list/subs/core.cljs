@@ -1,7 +1,7 @@
-(ns firemore-start-template.subs.core
+(ns infinite-list.subs.core
   (:require
    [re-frame.core :as re-frame]
-   [firemore-start-template.util :as util]))
+   [infinite-list.util :as util]))
 
 (re-frame/reg-sub
  :greeting

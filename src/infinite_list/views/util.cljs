@@ -1,7 +1,7 @@
-(ns firemore-start-template.views.util
+(ns infinite-list.views.util
   (:require
    [re-frame.core :as re-frame]
-   [firemore-start-template.mui :as mui]))
+   [infinite-list.mui :as mui]))
 
 (defn code-block [o]
   [:pre {:class "code-block"}
